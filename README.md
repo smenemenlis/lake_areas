@@ -5,7 +5,7 @@ Example code for Menemenlis et al. (2022). A proxy-model comparison for mid-Plio
 Adapted from Ibarra et al. 2018. Warm and cold wet states in the western United States during the Pliocene–Pleistocene. Geology 46, 355–358. https://doi.org/10.1130/G39962.1. 
 
 Data: 
-- All figures use reanalysis data from MERRA2 (available at disc.gsfc.nasa.gov). 
-- Figures 2 and 3 require a GIS shapefile of a group of endorheic basins. 
+- Reanalysis data from MERRA2 (available at disc.gsfc.nasa.gov). 
+- South Great Basin GIS shapefile (Figures 2, 3)
 
 Contact: Sofia Menemenlis, smenemenlis@princeton.edu
